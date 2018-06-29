@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/yue-best-practices/db-service#readme",
   "dependencies": {
-    "yue-db-service": "^0.1.3"
+    "yue-db-service": "^0.2.0"
   }
 }
