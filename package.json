@@ -1,0 +1,25 @@
+{
+  "name": "db-service",
+  "version": "1.0.0",
+  "description": "数据库服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yue-best-practices/db-service.git"
+  },
+  "keywords": [
+    "db-service"
+  ],
+  "author": "Yue.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yue-best-practices/db-service/issues"
+  },
+  "homepage": "https://github.com/yue-best-practices/db-service#readme",
+  "dependencies": {
+    "yue-db-service": "^0.1.3"
+  }
+}
