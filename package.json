@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/yue-best-practices/db-service#readme",
   "dependencies": {
-    "grpc-db-service-core": "0.0.1",
+    "grpc-db-service-core": "0.0.1"
   }
 }
