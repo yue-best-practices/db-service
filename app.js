@@ -2,7 +2,7 @@
  * Created by yuanjianxin on 2018/4/30.
  */
 
-const DbService = require('yue-db-service');
+const DbService = require('grpc-db-service-core');
 const DatabaseConf = require('./config/databaseConf');
 const RedisConf = require('./config/redisConf');
 const MappingConf = require('./config/mappingConf');
